@@ -17,6 +17,12 @@ h1 {
 	float: left;
 }
 
-.col-md-3(2) {
+.col-md-2{
+	float: left;
+	background-color: #3f3f3f;
+}
+
+.col-md-3 {
 	float: right;
+	background-color: #3f3f3f;
 }
