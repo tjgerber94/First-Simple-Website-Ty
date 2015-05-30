@@ -13,7 +13,7 @@ h1 {
 }
 
 .col-md-2{
-	float: justify;
+	float: left;
 	background-color: #3f3f3f;
 	color: white;
 	border-radius: 15%;
@@ -21,7 +21,7 @@ h1 {
 }
 
 .col-md-3 {
-	float: right;
+	float: left;
 	background-color: #3f3f3f;
 	color: white;
 	border-radius: 15%;
@@ -72,12 +72,13 @@ h1 {
 	text-align: center;
 }
 
-.col-md-5 {
-	border: 2em solid #3f3f3f;
+.container2 {
+	float: right;
 }
 
-.col-md-4 {
-	border: 2em solid #3f3f3f;
+.DNTV {
+	border: 1em solid #3f3f3f;
+	border-radius: 25%;
 }
 
 
