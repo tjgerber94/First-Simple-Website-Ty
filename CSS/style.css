@@ -13,16 +13,16 @@ h1 {
 
 }
 
-.columnone {
-	float: left;
-}
-
 .col-md-2{
 	float: left;
 	background-color: #3f3f3f;
+	color: white;
+	border-radius: 15%;
 }
 
 .col-md-3 {
 	float: right;
 	background-color: #3f3f3f;
+	color: white;
+	border-radius: 15%;
 }
