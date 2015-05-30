@@ -39,6 +39,7 @@ h1 {
 	border: 2em solid #31ef78;
 	border-radius: 25%;
 	float: right;
+	position: relative;
 }
 
 .malaysia {
@@ -50,6 +51,7 @@ h1 {
 	border: 2em solid #31ef78;
 	border-radius: 25%;
 	float: left;
+	position: relative;
 }
 
 .siblings {
@@ -60,6 +62,7 @@ h1 {
 	border: 2em solid #31ef78;
 	border-radius: 25%;
 	float: right;
+	position: relative;
 
 }
 
@@ -69,8 +72,12 @@ h1 {
 	text-align: center;
 }
 
-#col-md-3 {
-	border: 2em solid #31ef78;
+.col-md-5 {
+	border: 2em solid #3f3f3f;
+}
+
+.col-md-4 {
+	border: 2em solid #3f3f3f;
 }
 
 
