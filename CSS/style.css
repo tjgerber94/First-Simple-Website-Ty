@@ -10,7 +10,6 @@ h1 {
 
 .container {
 	text-align: center;
-
 }
 
 .col-md-2{
@@ -34,6 +33,7 @@ h1 {
 .mik {
 	margin-right: 5em;
 	max-height: 30em;
+	border-color
 }
 
 .malaysia {
@@ -45,4 +45,8 @@ h1 {
 
 .siblings {
 	max-width: 480px;
+}
+
+.list {
+	text-align: center;
 }
