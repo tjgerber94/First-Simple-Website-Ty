@@ -56,3 +56,12 @@ p{
 	text-align: center;
 }
 
+.column1 {
+	-webkit-column-count: 3;
+	
+}
+
+.column2 {
+	-webkit-column-count: 3;
+}
+
