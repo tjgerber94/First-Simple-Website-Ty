@@ -26,3 +26,23 @@ h1 {
 	color: white;
 	border-radius: 15%;
 }
+
+.homegrouppics {
+	text-align: center;
+}
+
+.mik {
+	margin-right: 5em;
+	max-height: 30em;
+}
+
+.malaysia {
+	margin-left: 5em;
+	margin-bottom: 5em;
+	max-height: 30em;
+	min-width: 30em;
+}
+
+.siblings {
+	max-width: 480px;
+}
