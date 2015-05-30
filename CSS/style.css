@@ -1,67 +1,22 @@
-/*Adjusts the settings of the h1*/
 h1 {
-	margin:50px;
-	background-color: #99FF99;
-	border: 5px solid black;
+	text-align: center;
+	border: 2px solid black;
+	border-width: 2em;
+}
+
+.navlink {
 	text-align: center;
 }
 
-/*Center-Aligns all paragragh text*/
-p{
+.container {
 	text-align: center;
+
 }
 
-/*Center-Aligns the un-ordered list in about.html*/
-.list {
-	text-align: center;
+.columnone {
+	float: left;
 }
 
-/*Makes pictures on index.html centered within <div>*/
-#homegrouppics {
-	text-align: center;
-	margin: 15px relative;
-	background-color: #99FF99;
-	border-radius: 15%;
-}	
-
-/*----------------------------------------------------------*/
-.malaysia {
-	margin-left: 150px relative;
-	margin-bottom: 10px relative;
-	max-height: 50%;
-	max-width: 50%;
-	border-radius: 25%;
+.col-md-2 {
+	float: right;
 }
-
-.mik {
-	margin-bottom: relative 7em;							/*Adjusts the settings of the pictures separately on index.html*/
-	border-radius: 25%;
-	max-width: 50%;
-	max-height: 50%;
-}
-
-.siblings {
-	border-radius: 25%;
-	max-width: 50%;
-	max-height: 50%;
-}
-/*---------------------------------------------------------*/
-
-/*Adjusts the DishNetwork picture on about.html*/
-.DNTV {
-	border-radius: 25%;
-}
-
-.container2 {
-	text-align: center;
-}
-
-.column1 {
-	-webkit-column-count: 3;
-	
-}
-
-.column2 {
-	-webkit-column-count: 3;
-}
-
