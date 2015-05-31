@@ -63,5 +63,15 @@ h1 {
 	right: 18.75em;
 }
 
+.DishNetwork {
+	max-width: 19.250em;
+	border: 1em solid #3f3f3f;
+	border-radius: 25%;
+	position: absolute;
+	right: 18.75em;
+	top: 37.50em;
+}
+
+
 
 
